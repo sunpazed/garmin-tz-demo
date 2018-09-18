@@ -1,0 +1,13 @@
+<resources>
+
+    <strings>
+      <string id="AppName">Timezone Demo</string>
+    </strings>
+
+    <drawables>
+      <bitmap id="LauncherIcon" filename="bitmaps/launcher_icon.png" />
+    </drawables>
+
+    <jsonData id="tz_data" filename="data/timezone-data.json"/>
+
+</resources>
